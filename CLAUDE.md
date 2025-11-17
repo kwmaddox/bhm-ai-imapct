@@ -4,17 +4,17 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is the BHM AI Impact repository. The project is in its initial setup phase with no source code or build configuration yet established.
+This application will allow users to add, edit, and store their stories about how AI has impacted their lives. This can include stories about how AI has helped improve their coding, networking opportunities with other developers, or other ways AI has had an impact on their career.
 
-## Development Status
+## Technology Stack
 
-**Note**: This repository is newly initialized and does not yet contain:
-- Source code
-- Build tools or package managers
-- Test frameworks
-- CI/CD configuration
+### Front End
+- Next.js front end
 
-When code and tooling are added to this repository, update this file with:
-- Build, test, and lint commands
-- Project architecture and module structure
-- Development workflow and conventions specific to this codebase
+### Back End
+- Next.js routes
+
+### Data persistence
+- SQL Lite, self hosted
+
+
